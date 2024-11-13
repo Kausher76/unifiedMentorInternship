@@ -1,0 +1,15 @@
+.background-color {
+    background-color: #003049;
+}
+.card-img-top {
+    width: 100%; /* Make the image responsive */
+    height: 200px; /* Set a fixed height */
+    object-fit: cover; /* Maintain aspect ratio */
+}
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+html {
+    scroll-behavior: smooth;
+  }
+
